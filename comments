@@ -1,0 +1,6 @@
+  git add .
+  261  git commit -m "upload "
+  262  git branch -M main
+  263  git remote add origin https://github.com/RLikitha/Gesture_Controller.git
+  264  git push
+  265  git push -u origin main
